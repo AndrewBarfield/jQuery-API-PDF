@@ -15,10 +15,3 @@ that is available through the world-wide-web at the following URI:
 http://www.php.net/license/3_01.txt.  If you did not receive a copy of
 the PHP License and are unable to obtain it through the web, please
 send a note to license@php.net so we can mail you a copy immediately.
-
-@package    jQuery-API-PDF
-@author     Andrew Barfield <barfield2256@gmail.com>
-@copyright  2011-2012 Andrew Barfield
-@license    http://www.php.net/license/3_01.txt  PHP License 3.01
-@version    SVN: $Id$
-@link       http://pear.php.net/package/jQuery-API-PDF
